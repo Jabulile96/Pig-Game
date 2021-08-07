@@ -1,5 +1,5 @@
 # DOM-pig-game
-This is a simple dice game, called pig (dice game) it was created using html,css, javaScript and manipulating the DOM for optimum functionality.
+This is a simple dice game, called pig (dice game) it was created using HTML,CSS, JavaScript and DOM manupulation for optimum functionality.
  ## Table of content
  * [Game Rules](#game-rules)
  * [Technologies](#technologies)
