@@ -30,7 +30,7 @@ This is a simple dice game, called pig (dice game) it was created using HTML,CSS
  * Google Chrome
  
  ## Visuals
- Here is a visual representation of the game in the form of screen shots as well as a direct link to the website
+ Here is a visual representation of the game in the form of pictures.
 
   ![](https://github.com/Jabulile96/Pig-Game/blob/main/Images/image1.jpg)<br/><br/>
   ![](https://github.com/Jabulile96/Pig-Game/blob/main/Images/image2.jpg)<br/><br/>
