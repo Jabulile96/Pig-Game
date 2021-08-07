@@ -51,4 +51,4 @@ This is a simple dice game, called pig (dice game) it was created using html,css
  
  ## License
  &copy; 2021 Jabulile Khoza<br/>
- This project is [MIT]()
+ 
