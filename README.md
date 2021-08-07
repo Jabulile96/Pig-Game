@@ -32,9 +32,10 @@ This is a simple dice game, called pig (dice game) it was created using html,css
  ## Visuals
  Here is a visual representation of the game in the form of screen shots as well as a direct link to the website
  * [Live Demo]() <br/><br/>
- ![]()<br/><br/>
-  ![]()<br/><br/>
-  ![]()
+  ![](images/image1.png)<br/><br/>
+  ![](images/image2.png)<br/><br/>
+  ![](images/image3.png)<br/><br/>
+  ![](images/image4.png)
  
  ## Author
  The authors responsible for this game are:<br/>
